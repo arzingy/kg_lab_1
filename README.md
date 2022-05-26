@@ -11,10 +11,10 @@
 
 ## Для запуска приложения [скачать .exe](https://github.com/arzingy/kg_lab_1/blob/master/KG_LAB1/bin/Release/KG_LAB1.exe?raw=true) и запустить.
 
-![](https://github.com/arzingy/kg_lab_1/blob/master/KG_LAB1/Resourses/Images/1.jpg)
+![изображение 1](https://github.com/arzingy/kg_lab_1/blob/master/KG_LAB1/Resourses/Images/1.jpg)
 
-![](https://github.com/arzingy/kg_lab_1/blob/master/KG_LAB1/Resourses/Images/2.jpg)
+![изображение 2](https://github.com/arzingy/kg_lab_1/blob/master/KG_LAB1/Resourses/Images/2.jpg)
 
-![](https://github.com/arzingy/kg_lab_1/blob/master/KG_LAB1/Resourses/Images/3.jpg)
+![изображение 3](https://github.com/arzingy/kg_lab_1/blob/master/KG_LAB1/Resourses/Images/3.jpg)
 
-![](https://github.com/arzingy/kg_lab_1/blob/master/KG_LAB1/Resourses/Images/4.jpg)
+![изображение 4](https://github.com/arzingy/kg_lab_1/blob/master/KG_LAB1/Resourses/Images/4.jpg)
